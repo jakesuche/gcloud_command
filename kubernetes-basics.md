@@ -62,11 +62,11 @@ picture
         the Output will look this
 
 
-| deployments/ |  Deployment manifests |
-| nginx/       | nginx config files    |
-| pods/        | pod manifests         |
-| tls/         |  TLS certificates     |
-| cleanup.sh   | Cleanup script        |
+                    | deployments/ |  Deployment manifests |
+                    | nginx/       | nginx config files    |
+                    | pods/        | pod manifests         |
+                    | tls/         |  TLS certificates     |
+                    | cleanup.sh   | Cleanup script        |
 
 
 ## Start a Kubernetes cluster
