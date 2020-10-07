@@ -8,15 +8,15 @@
 
 In this lab, you learn how to perform the following tasks:
 
--[X] Create a configuration for an auto mode network
+- [X] Create a configuration for an auto mode network
 
--[X] Create a configuration for a firewall rule
+- [X] Create a configuration for a firewall rule
 
--[x] Create a module for VM instances
+- [x] Create a module for VM instances
 
--[x] Create and deploy a configuration
+- [x] Create and deploy a configuration
 
--[x] Verify the deployment of a configuration
+- [x] Verify the deployment of a configuration
 
 
 ### Install Terraform
